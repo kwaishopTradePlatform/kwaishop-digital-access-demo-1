@@ -80,11 +80,11 @@ public class ProxyTest {
     @Test
     public void  testListRefundOrder() {
 
-        String appKey = "ks683702719562282620";
-        String appSecret = "zSCiWmGOk_diMCU9k3zHcg";
-        String signSecret = "7482bac6555ee7a3184bcc48f4ef05cd";
+        String appKey = "";
+        String appSecret = "";
+        String signSecret = "";
         String accessToken = "";
-        String refreshToken = "ChJvYXV0aC5yZWZyZXNoVG9rZW4SsAHPvByNldtLCd3kPA9J9-HzY6f4OgXxL1VA1ey-1Q1kcrt_CntA6lR39Xymuefk3UNr4IUBNbps-i71J_JUqow28QlSzskEuLuA72n2M1AqP0IM50FN5DlVehtOr6aG2aeDvqxlV3IID_wG5ipjUYqrOPqIxDtnzBWj5JRilM3Hy50HWzXMGtO2SDBK2XCU6ajOK0L5Hs0OvlHtvY8VcED3_F7kuOoR94We-gFY4su18xoSixsDI1Ap_5iUF0o9NKotLeDEIiBrbyaw8-aUM6ldDkPsC0r_E-q9MnpTf0T47P5OyWTp6SgPMAE";
+        String refreshToken = "";
 
         String url = "https://gw-merchant-staging.test.gifshow.com/open/seller/order/refund/pcursor/list";
         String apiMethodName = "open.seller.order.refund.pcursor.list";
