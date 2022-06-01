@@ -1,7 +1,6 @@
 kwaishop:
   url: https://gw-merchant-staging.test.gifshow.com
   version: 1
-  accessToken: ChFvYXV0aC5hY2Nlc3NUb2tlbhJggM713sjb_rjHZGsecOjOZTkuYImmfFUqBmTegMbit5eYbtf-XXmMzZpjOMRN-_o0XTt75roD9EPvkrhiuVsJUcEBKJ3xXxNT6RvwfpqCgzQ1Vf_STWcvuaScP3Uw9l_LGhJlmhnUlrMV9o2yfrXwL5_TatUiIHBcr4i0aU24RrakA7mu7nrG_R00hyuwvpblO4NPzuL9KA8wAQ
   appKey: ks683702719562282620
   signMethod: MD5
   appSecret: zSCiWmGOk_diMCU9k3zHcg
